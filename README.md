@@ -1,0 +1,1 @@
+# smogalloyubio-Terraform-AzureCloud-Gitaction-Bankapp
